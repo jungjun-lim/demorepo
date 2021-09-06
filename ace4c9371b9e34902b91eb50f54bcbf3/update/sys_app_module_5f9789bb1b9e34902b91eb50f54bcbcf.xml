@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="세금 계산서">83978db71b9e34902b91eb50f54bcb05</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>세금 계산서</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-06 16:43:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f9789bb1b9e34902b91eb50f54bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>세금 계산서</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="세금 계산서" source="x_snc_tax_bill">ace4c9371b9e34902b91eb50f54bcbf3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="세금 계산서">ace4c9371b9e34902b91eb50f54bcbf3</sys_scope>
+        <sys_update_name>sys_app_module_5f9789bb1b9e34902b91eb50f54bcbcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-06 16:43:17</sys_updated_on>
+        <timeline_page/>
+        <title>세금 계산서</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

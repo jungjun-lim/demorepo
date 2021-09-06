@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_snc_tax_bill_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_snc_tax_bill_table</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-06 16:42:49</sys_created_on>
+            <sys_id>9c8785bb1b9e34902b91eb50f54bcbed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="세금 계산서" source="x_snc_tax_bill">ace4c9371b9e34902b91eb50f54bcbf3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="세금 계산서">ace4c9371b9e34902b91eb50f54bcbf3</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_tax_bill_table_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-06 16:42:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

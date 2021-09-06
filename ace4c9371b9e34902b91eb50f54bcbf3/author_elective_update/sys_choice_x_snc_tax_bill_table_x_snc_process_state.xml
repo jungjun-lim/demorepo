@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_snc_process_state" table="x_snc_tax_bill_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_snc_process_state</element>
+            <name>x_snc_tax_bill_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-06 16:55:11</sys_created_on>
+            <sys_id>e15a8dbf1b9e34902b91eb50f54bcb20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_process_state</sys_name>
+            <sys_package display_value="세금 계산서" source="x_snc_tax_bill">ace4c9371b9e34902b91eb50f54bcbf3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="세금 계산서">ace4c9371b9e34902b91eb50f54bcbf3</sys_scope>
+            <sys_update_name>sys_choice_x_snc_tax_bill_table_x_snc_process_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-06 16:55:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_snc_process_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_snc_tax_bill_table</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-06 16:55:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d3a89ff1b9e34902b91eb50f54bcb8e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-06 16:55:27</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_snc_process_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ready</label>
+            <language>en</language>
+            <name>x_snc_tax_bill_table</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-06 17:02:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5ebc5731bde34902b91eb50f54bcb46</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-06 17:02:31</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_snc_process_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Processed</label>
+            <language>en</language>
+            <name>x_snc_tax_bill_table</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-06 16:56:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c8a05331bde34902b91eb50f54bcbe0</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-06 17:02:25</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

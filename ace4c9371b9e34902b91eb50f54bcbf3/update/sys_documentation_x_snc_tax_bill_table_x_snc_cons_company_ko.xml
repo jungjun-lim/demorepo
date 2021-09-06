@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_cons_company" label="소비자 상호" language="ko" table="x_snc_tax_bill_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_cons_company</element>
+            <help/>
+            <hint/>
+            <label>소비자 상호</label>
+            <language>ko</language>
+            <name>x_snc_tax_bill_table</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-06 16:47:55</sys_created_on>
+            <sys_id>03a8c93f1b9e34902b91eb50f54bcb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>소비자 상호</sys_name>
+            <sys_package display_value="세금 계산서" source="x_snc_tax_bill">ace4c9371b9e34902b91eb50f54bcbf3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="세금 계산서">ace4c9371b9e34902b91eb50f54bcbf3</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_tax_bill_table_x_snc_cons_company_ko</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-06 16:47:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
