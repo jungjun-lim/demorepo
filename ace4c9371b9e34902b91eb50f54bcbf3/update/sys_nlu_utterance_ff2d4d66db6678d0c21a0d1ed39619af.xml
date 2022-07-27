@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="티켓 생성">a3b4c16adb2678d0c21a0d1ed396195e</intent>
+        <original_utterance/>
+        <primary_utterance/>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-15 06:10:55</sys_created_on>
+        <sys_id>ff2d4d66db6678d0c21a0d1ed39619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>잘은 모르겠는데 잘 안되요</sys_name>
+        <sys_package display_value="세금 계산서" source="x_snc_tax_bill">ace4c9371b9e34902b91eb50f54bcbf3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="세금 계산서">ace4c9371b9e34902b91eb50f54bcbf3</sys_scope>
+        <sys_update_name>sys_nlu_utterance_ff2d4d66db6678d0c21a0d1ed39619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-15 06:10:55</sys_updated_on>
+        <utterance>잘은 모르겠는데 잘 안되요</utterance>
+    </sys_nlu_utterance>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_nlu_model">
+    <sys_nlu_model action="INSERT_OR_UPDATE">
+        <category>virtual_agent</category>
+        <confidence_threshold>0.6</confidence_threshold>
+        <description/>
+        <display_name>my nlu model test</display_name>
+        <ignore_punctuation/>
+        <language>ko</language>
+        <last_translated_on/>
+        <model_domain/>
+        <name>ml_x_snc_x_snc_tax_bill_global_cca4456adb2678d0c21a0d1ed39619c9</name>
+        <oob>false</oob>
+        <primary_model/>
+        <state>Trained</state>
+        <sys_class_name>sys_nlu_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-15 05:33:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cca4456adb2678d0c21a0d1ed39619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my nlu model test</sys_name>
+        <sys_package display_value="세금 계산서" source="x_snc_tax_bill">ace4c9371b9e34902b91eb50f54bcbf3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="세금 계산서">ace4c9371b9e34902b91eb50f54bcbf3</sys_scope>
+        <sys_update_name>sys_nlu_model_cca4456adb2678d0c21a0d1ed39619c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-15 05:33:32</sys_updated_on>
+        <vocabulary_needs_review>false</vocabulary_needs_review>
+    </sys_nlu_model>
+</record_update>

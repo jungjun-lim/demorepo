@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="세금 계산서" max_length="40" name="x_snc_tax_bill_table" type="collection">
+    <element label="세금 계산서" max_length="40" name="x_snc_tax_bill_table" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="작성 일자" max_length="40" name="x_snc_bill_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="소비자 주소" max_length="100" name="x_snc_cons_address" type="string"/>
@@ -14,6 +14,8 @@
                 <element inactive_on_update="false" label="Open" sequence="100" value="0"/>
                 <element inactive_on_update="false" label="Ready" sequence="200" value="1"/>
                 <element inactive_on_update="false" label="Processed" sequence="300" value="2"/>
+                <element inactive_on_update="false" label="Approved" sequence="400" value="3"/>
+                <element inactive_on_update="false" label="Rejected" sequence="500" value="4"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="공급자 주소" max_length="100" name="x_snc_prov_address" type="string"/>
